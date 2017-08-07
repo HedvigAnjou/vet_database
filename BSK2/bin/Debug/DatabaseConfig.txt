@@ -1,0 +1,4 @@
+localhost
+default
+##1st line - database server adress
+##2nd line - location of your ssl key (if in app directory, then leave 'default') remember to use // rather than /

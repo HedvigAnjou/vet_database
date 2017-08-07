@@ -1,0 +1,228 @@
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\BSK2.exe.config
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.csprojResolveAssemblyReference.cache
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Dane.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\InsertWindow.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\MainWindow.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Uprawnienia.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Window1.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\App.g.cs
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.cache
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.lref
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\BSK2.exe
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\BSK2.pdb
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\MySql.Data.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\MySql.Web.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\WebMatrix.WebData.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\WebMatrix.Data.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.Helpers.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.Razor.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\MySql.Data.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\MySql.Web.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\WebMatrix.WebData.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\WebMatrix.Data.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.Helpers.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.Razor.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Dane.baml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\InsertWindow.baml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\MainWindow.baml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Uprawnienia.baml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\Window1.baml
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.g.resources
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.Properties.Resources.resources
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.csproj.GenerateResource.Cache
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.exe
+c:\users\ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\BSK2.pdb
+C:\Users\Ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\PanelAdmina.g.cs
+C:\Users\Ewa\documents\visual studio 2015\Projects\BSK2\BSK2\obj\Debug\PanelAdmina.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\BSK2.exe.config
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.exe
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.pdb
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\BSK2.exe
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\BSK2.pdb
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\MySql.Data.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\MySql.Web.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\WebMatrix.WebData.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\WebMatrix.Data.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.Helpers.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.Razor.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\MySql.Data.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\MySql.Web.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\WebMatrix.WebData.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\WebMatrix.Data.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.Helpers.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.Razor.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.csprojResolveAssemblyReference.cache
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Dane.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\InsertWindow.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\MainWindow.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\PanelAdmina.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\PrzegladUprawnien.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Uprawnienia.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Window1.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\App.g.cs
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.cache
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.lref
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Dane.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\InsertWindow.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\MainWindow.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\PanelAdmina.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\PrzegladUprawnien.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Uprawnienia.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\Window1.baml
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.g.resources
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.Properties.Resources.resources
+C:\Users\janba\Documents\BSK\BSK2\BSK2\obj\Debug\BSK2.csproj.GenerateResource.Cache
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\BSK2.exe.config
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.exe
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.pdb
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\BSK2.exe
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\BSK2.pdb
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\MySql.Data.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\MySql.Web.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\WebMatrix.Data.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.Razor.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\MySql.Data.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\MySql.Web.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\WebMatrix.Data.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.Razor.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.csprojResolveAssemblyReference.cache
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Dane.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\InsertWindow.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\MainWindow.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\PanelAdmina.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\PrzegladUprawnien.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Uprawnienia.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Window1.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\App.g.cs
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.cache
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2_MarkupCompile.lref
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Dane.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\InsertWindow.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\MainWindow.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\PanelAdmina.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\PrzegladUprawnien.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Uprawnienia.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\Window1.baml
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.g.resources
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.Properties.Resources.resources
+C:\Users\Ewa\Desktop\BSK2 3.06\BSK2\BSK2\obj\Debug\BSK2.csproj.GenerateResource.Cache
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\BSK2.exe.config
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.exe
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.pdb
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\BSK2.exe
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\BSK2.pdb
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\MySql.Data.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\MySql.Web.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\WebMatrix.WebData.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\WebMatrix.Data.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.Helpers.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.Razor.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\MySql.Data.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\MySql.Web.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\WebMatrix.WebData.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\WebMatrix.Data.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.Helpers.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.Razor.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.csprojResolveAssemblyReference.cache
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Dane.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\InsertWindow.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\MainWindow.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\PanelAdmina.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\PrzegladUprawnien.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Uprawnienia.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Window1.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\App.g.cs
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2_MarkupCompile.cache
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2_MarkupCompile.lref
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Dane.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\InsertWindow.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\MainWindow.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\PanelAdmina.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\PrzegladUprawnien.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Uprawnienia.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\Window1.baml
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.g.resources
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.Properties.Resources.resources
+C:\Users\janba\Documents\BSK\BSK 4.06\BSK2\obj\Debug\BSK2.csproj.GenerateResource.Cache
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\BSK2.exe.config
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.exe
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.pdb
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\BSK2.exe
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\BSK2.pdb
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\MySql.Data.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\MySql.Web.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\WebMatrix.WebData.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\WebMatrix.Data.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.Razor.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\MySql.Data.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\MySql.Web.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\WebMatrix.WebData.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\WebMatrix.Data.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.Razor.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.csprojResolveAssemblyReference.cache
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Dane.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\InsertWindow.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\MainWindow.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\PanelAdmina.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\PrzegladUprawnien.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Uprawnienia.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Window1.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\App.g.cs
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2_MarkupCompile.cache
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2_MarkupCompile.lref
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Dane.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\InsertWindow.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\MainWindow.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\PanelAdmina.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\PrzegladUprawnien.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Uprawnienia.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\Window1.baml
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.g.resources
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.Properties.Resources.resources
+C:\Users\Ewa\Desktop\BSK 5.06\BSK2\obj\Debug\BSK2.csproj.GenerateResource.Cache
